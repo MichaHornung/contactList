@@ -55,6 +55,8 @@ class ViewController: UIViewController {
         zeigmirPicker.dataSource = self
         zeigmirPicker.delegate = self
         zeigMirField.inputView = zeigmirPicker
+        
+        
     }
 
 
